@@ -11,19 +11,6 @@
 - 🧠 Thoughtful templates: Wins, Inspirations, Quotes, Emotions, and more
 - 📦 React frontend + Node.js backend
 
-## 🗂️ Project Structure
-
-JournalWithAI/
-├── backend/ # Node.js backend (handles API & storage)
-│ ├── index.js
-│ ├── entries.json
-│ └── .env # Environment variables (not committed)
-├── final/ # React frontend
-│ └── src/
-├── .gitignore
-├── README.md
-└── package.json
-
 ## 🛠️ Getting Started
 
 # Clone the repository
